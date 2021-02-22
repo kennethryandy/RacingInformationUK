@@ -1,0 +1,12 @@
+//
+// Plugin Core Frontend SASS (SCSS) file
+// 
+
+// Common
+@import "common/_breakpoints";
+@import "common/_variables_colours";
+
+// Specific
+@import "frontend/pricing_table";
+
+// Added package.json and install node-sass to automatically turns scss to css on save
